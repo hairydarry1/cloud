@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024' width='1024' height='1024'>
+  <defs><filter id='p'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.18  0 0 0 0 0.16  0 0 0 0 0.12  0 0 0 0.07 0'/></filter></defs>
+  <rect width='1024' height='1024' fill='#efe7d2'/>
+  <rect width='1024' height='1024' filter='url(#p)'/>
+  <rect x='41' y='41' width='942' height='942' fill='none' stroke='rgba(21, 20, 15, 0.16)' stroke-dasharray='6 6'/>
+  <line x1='41' y1='41' x2='983' y2='983' stroke='#8b8676' stroke-opacity='0.22' stroke-width='1'/>
+  <line x1='983' y1='41' x2='41' y2='983' stroke='#8b8676' stroke-opacity='0.22' stroke-width='1'/>
+  <path d='M41 61 L41 41 L61 41' stroke='#8b8676' fill='none' stroke-width='1.5'/>
+  <path d='M963 41 L983 41 L983 61' stroke='#8b8676' fill='none' stroke-width='1.5'/>
+  <path d='M41 963 L41 983 L61 983' stroke='#8b8676' fill='none' stroke-width='1.5'/>
+  <path d='M963 983 L983 983 L983 963' stroke='#8b8676' fill='none' stroke-width='1.5'/>
+  <text x='512' y='499.8' text-anchor='middle' font-family='Playfair Display, serif' font-style='italic' font-weight='500' font-size='61' fill='#15140f'>☁ CTA</text>
+  <text x='512' y='558.8' text-anchor='middle' font-family='Inter Tight, system-ui, sans-serif' font-size='26' letter-spacing='3' fill='#8b8676'>CLOUD · CTA</text>
+  <text x='55' y='969' font-family='Inter Tight, system-ui, sans-serif' font-size='10' letter-spacing='2' fill='#8b8676'>PLACEHOLDER · 1024×1024</text>
+  <text x='969' y='969' text-anchor='end' font-family='Inter Tight, system-ui, sans-serif' font-size='10' letter-spacing='2' fill='#8b8676'>CLOUD · ATELIER ZERO</text>
+</svg>

@@ -1,0 +1,349 @@
+{
+  "$schema": "./schema.ts",
+  "brand": {
+    "name": "Cloud",
+    "mark": "☁",
+    "meta": { "title": "Studio Nº 01", "subtitle": "Digital / Fashion / Freedom" },
+    "filed_under": "Clothing · Design",
+    "tagline": "Be free Be you",
+    "description": "Cloud is a digital-first clothing brand exploring freedom through form, fabric, and silhouette. Vol. 01 / Issue Nº 10.",
+    "locale": "en",
+    "edition": "Vol. 01 / Issue Nº 10",
+    "version": "v1.0.0",
+    "license": "All rights reserved",
+    "primary_url": "#",
+    "primary_url_label": "Shop Vol. 01",
+    "contact_email": "mailto:hello@cloud.studio",
+    "location": "Digital presence",
+    "coordinates": "0.0000° N · 0.0000° E",
+    "year": "2026",
+    "year_roman": "MMXXVI",
+    "founded": "Est. MMXXVI",
+    "rails": {
+      "right": "Cloud — Vol. 01 · Issue Nº 10",
+      "left": "Freedom · Form · Fabric · Silhouette"
+    },
+    "languages": ["EN", "中文", "日本語"],
+    "status": "Live · v1.0.0"
+  },
+
+  "nav": [
+    { "label": "Collections", "href": "#collections", "count": "04" },
+    { "label": "Studio", "href": "#studio" },
+    { "label": "Journal", "href": "#journal", "count": "12" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+
+  "rules": {
+    "about":        { "roman": "II.",   "meta": ["About / Manifesto",            "•", "Cloud / Studio 01"], "pagination": "002 / 008" },
+    "capabilities": { "roman": "III.",  "meta": ["Capabilities · Fabrics · Silhouettes", "•", "4 surfaces / 1 loop"],   "pagination": "003 / 008" },
+    "labs":         { "roman": "IV.",   "meta": ["Labs / Collections Archive",  "•", "04 of 12 ongoing"],         "pagination": "004 / 008" },
+    "method":       { "roman": "V.",    "meta": ["Method / Design Loop",         "•", "04 stages, iterative"],     "pagination": "005 / 008" },
+    "work":         { "roman": "VI.",   "meta": ["Selected Drops · 2026 Collection", "•", "Curated by Cloud Studio"],    "pagination": "006 / 008" },
+    "testimonial":  { "roman": "VII.",  "meta": ["Collaborators / Lineage",       "•", "Standing on shoulders"],    "pagination": "007 / 008" },
+    "cta":          { "roman": "VIII.", "meta": ["Contact / Conversation",        "•", "Three gestures to join"],   "pagination": "008 / 008" }
+  },
+
+  "hero": {
+    "label": "Digital fashion studio",
+    "ix": "· Nº 01",
+    "headline": [
+      { "text": "Wear the " },
+      { "text": "freedom", "em": true },
+      { "text": " to be " },
+      { "text": "you,", "em": true },
+      { "text": " every day" },
+      { "text": ".", "dot": true }
+    ],
+    "lead": "Cloud reimagines clothing as a canvas for self-expression. Soft silhouettes, natural fabrics, and digital-first drops — designed to move with you, not against you.",
+    "primary":   { "label": "Explore the collection",  "href": "#" },
+    "secondary": { "label": "Our story",   "href": "#about" },
+    "stats": [
+      { "value": "04", "label": "collections",  "sub": "and growing", "variant": "solid" },
+      { "value": "12", "label": "pieces", "sub": "signature",  "variant": "dashed" },
+      { "value": "∞", "label": "freedom",    "sub": "unlimited", "variant": "coral" }
+    ],
+    "meta": "↳ &nbsp; Volume 01 · Cloud Studio",
+    "index": [
+      { "num": "01", "label": "Dream"   },
+      { "num": "02", "label": "Design", "active": true },
+      { "num": "03", "label": "Drop"   },
+      { "num": "04", "label": "Wear"  }
+    ],
+    "annotations": {
+      "tl": "FIG. 01 / CV-26",
+      "tr": "Plate Nº 10",
+      "bl": "Fabric · cotton",
+      "br": "Composed in&nbsp;<span style='color:var(--coral);'>Cloud Studio</span>"
+    }
+  },
+
+  "about": {
+    "label": "About the studio",
+    "ix": "· Nº 02",
+    "headline": [
+      { "text": "Clothing is " },
+      { "text": "freedom,", "em": true },
+      { "text": " not " },
+      { "text": "constraint", "em": true },
+      { "text": " — we make the lightest silhouette possible" },
+      { "text": ".", "dot": true }
+    ],
+    "lead": "Cloud was born from a simple idea: what if clothing felt as light as a cloud? We work with natural fibers, oversized cuts, and organic dyes to create pieces that let you move through your day without thinking about what you're wearing.",
+    "cta_label": "Read our manifesto",
+    "cta_href": "#",
+    "footer_text": "Freedom · Form · Fabric · Silhouette",
+    "stamp_top": "Studio practice",
+    "stamp_bottom": "Est. MMXXVI",
+    "side_note": "From sketch to<br/>silhouette, we<br/>prototype the full<br/>range of human<br/>movement.",
+    "caption": {
+      "bold": "Studies in drape · texture · air.",
+      "rest": "(Cloud Studio, MMXXVI)"
+    }
+  },
+
+  "capabilities": {
+    "label": "Capabilities",
+    "ix": "· Nº 03",
+    "headline": [
+      { "text": "Fabrics, forms, and " },
+      { "text": "silhouettes", "em": true },
+      { "text": " that let you " },
+      { "text": "breathe" },
+      { "text": ".", "dot": true }
+    ],
+    "lead": "Every Cloud piece is designed around the body in motion — generous proportions, considered fabrics, and a palette drawn from the sky.",
+    "ribbon": "<b>CLOUD</b> &nbsp;·&nbsp; CAPABILITIES MATRIX &nbsp;·&nbsp; CV/26",
+    "cards": [
+      {
+        "num": "01",
+        "tag": "Fabrics",
+        "icon_svg": "<circle cx='9' cy='9' r='5'/><path d='M14 14l5 5'/>",
+        "title": "Natural\nfibers",
+        "body": "Organic cotton, linen, hemp, and Tencel — each chosen for breathability, drape, and low environmental impact.",
+        "href": "#"
+      },
+      {
+        "num": "02",
+        "tag": "Silhouettes",
+        "icon_svg": "<rect x='3.5' y='3.5' width='8' height='8'/><rect x='12.5' y='3.5' width='8' height='8'/><rect x='3.5' y='12.5' width='8' height='8'/><rect x='12.5' y='12.5' width='8' height='8'/>",
+        "title": "Oversized\ncuts",
+        "body": "Relaxed, generous proportions that celebrate the body without constricting it — room to move, room to breathe.",
+        "href": "#"
+      },
+      {
+        "num": "03",
+        "tag": "Palette",
+        "icon_svg": "<circle cx='8' cy='12' r='4.5'/><circle cx='16' cy='12' r='4.5'/>",
+        "title": "Sky-born\ncolors",
+        "body": "Dawn greys, midday blues, dusk lavenders — a palette that shifts with the light, drawn from the sky above.",
+        "href": "#"
+      },
+      {
+        "num": "04",
+        "tag": "Digital",
+        "icon_svg": "<path d='M5 8h14v8H5z'/><path d='M9 12h6M12 9v6'/>",
+        "title": "Digital-first\ndrops",
+        "body": "Limited releases, no seasons — each drop is a moment. Buy directly, ship anywhere, return with zero friction.",
+        "href": "#"
+      }
+    ]
+  },
+
+  "labs": {
+    "label": "Labs",
+    "ix": "· Nº 04",
+    "headline": [
+      { "text": "A living archive of " },
+      { "text": "experiments", "em": true },
+      { "text": " in fabric, form, and wearable design" },
+      { "text": ".", "dot": true }
+    ],
+    "pills": [
+      { "label": "All",       "count": "12", "active": true },
+      { "label": "Summer", "count": "04" },
+      { "label": "Linen",    "count": "03" },
+      { "label": "Layers",    "count": "03" },
+      { "label": "Accessories",    "count": "02" }
+    ],
+    "meta": {
+      "ring": "05",
+      "bold": "Ongoing experiments",
+      "sub": "documenting ideas in flux<br/>building freedom<br/>through making"
+    },
+    "cards": [
+      { "badge": "Summer",     "num": "Nº 01", "year": "2026", "title": "Airweight Linen",     "body": "A whisper-weight linen weave developed with a family mill in Portugal. 40% less fabric mass, 100% of the drape.", "href": "#" },
+      { "badge": "Layers",    "num": "Nº 02", "year": "2026", "title": "Modular Silhouette",   "body": "A 5-piece capsule where every piece layers over every other — one wardrobe, twenty looks.",                       "href": "#" },
+      { "badge": "Dye",     "num": "Nº 03", "year": "2026", "title": "Cloud Dye 01","body": "A hand-dipped indigo technique that produces a gradient from navy to nearly white — like sky meeting horizon.","href": "#" },
+      { "badge": "Digital", "num": "Nº 04", "year": "2026", "title": "Virtual Try-On",   "body": "QR codes on care labels unlock a 3D avatar that shows how the piece moves, drapes, and layers in real time.",       "href": "#" },
+      { "badge": "Future",  "num": "Nº 05", "year": "2026", "title": "Biodegradable Finishes",       "body": "Experiments with plant-based coatings that replace synthetic waterproofing — functional, compostable, beautiful.",      "href": "#" }
+    ],
+    "progress": { "total": 8, "filled": 5 },
+    "foot": "05 / 12 EXPERIMENTS &nbsp;·&nbsp; <a class='library-link' href='#' target='_blank' rel='noreferrer noopener' style='color:var(--coral);'>VIEW FULL ARCHIVE →</a>"
+  },
+
+  "method": {
+    "label": "Method",
+    "ix": "· Nº 05",
+    "headline": [
+      { "text": "From " },
+      { "text": "dreams", "em": true },
+      { "text": " to wearable form" },
+      { "text": ".", "dot": true }
+    ],
+    "right": "Every stage is iterative, tactile, and research-driven — files and fabrics, not briefs and guesswork.",
+    "steps": [
+      { "num": "01", "title": "Dream",   "body": "We collect signals — art, architecture, street photography, the way light falls through a window." },
+      { "num": "02", "title": "Design", "body": "Sketches become digital patterns. Every seam is questioned. Every drape is photographed." },
+      { "num": "03", "title": "Make",   "body": "Sample rooms in Lisbon and Tokyo. We fit on real bodies across sizes, shapes, and heights." },
+      { "num": "04", "title": "Release",  "body": "Limited drops, no seasons. Each piece ships with a care story, a QR code, and a return bag." }
+    ],
+    "foot_left": "Fabrics inform everything. Movement makes it real.",
+    "foot_right_bold": "cloud.studio",
+    "foot_right_rest": "Est. MMXXVI"
+  },
+
+  "work": {
+    "label": "Selected drops",
+    "headline": [
+      { "text": "Drops that turn fabric into " },
+      { "text": "feeling", "em": true },
+      { "text": ", and " },
+      { "text": "silence", "em": true },
+      { "text": " into statement" },
+      { "text": ".", "dot": true }
+    ],
+    "link_label": "View all 12 pieces",
+    "link_href": "#",
+    "cards": [
+      {
+        "small_label": "Featured drop",
+        "index": "01 / 12",
+        "title": "Nº 01 — The Horizon Coat",
+        "body": "An oversized linen duster that moves like a cloud. Three pockets, no buttons, one continuous seam from shoulder to hem.",
+        "year": "2026 · COAT",
+        "tag": "BESTSELLER"
+      },
+      {
+        "small_label": "Companion piece",
+        "index": "04 / 12",
+        "title": "Nº 04 — The Float Pant",
+        "body": "A wide-leg trouser cut from double-gauze cotton. An elastic waist that never pinches and a drape that clears the ground by exactly one inch.",
+        "year": "2026 · PANT",
+        "tag": "SIGNATURE"
+      }
+    ]
+  },
+
+  "testimonial": {
+    "label": "Collaborators",
+    "ix": "· Nº 06",
+    "quote": [
+      { "text": "Cloud helped me rediscover what " },
+      { "text": "wearing clothes", "em": true },
+      { "text": " should feel like — " },
+      { "text": "light,", "em": true },
+      { "text": " unhurried, and completely " },
+      { "text": "me", "em": true },
+      { "text": "." }
+    ],
+    "author": { "initial": "a", "name": "Aya Chen", "title": "Designer · Atelier Form" },
+    "partners_text": "Collaborating with studios, mills, and makers who share our belief in lightness.",
+    "partners": [
+      { "glyph_svg": "<path d='M5 24L20 6L35 24M12 18h16'/>",                              "name": "Atelier Form", "role": "Silhouette", "href": "#" },
+      { "glyph_svg": "<path d='M8 24L20 6L24 22L36 4'/>",                                  "name": "Mill Nº 7",   "role": "Fabrics",      "href": "#" },
+      { "glyph_svg": "<rect x='6' y='6' width='4' height='18'/><rect x='14' y='6' width='4' height='18'/><rect x='22' y='6' width='4' height='18'/><rect x='30' y='6' width='4' height='18'/>", "name": "Studio K",   "role": "Photography",     "href": "#" },
+      { "glyph_svg": "<circle cx='15' cy='15' r='9'/><path d='M15 6v18M6 15h18'/>",        "name": "Soft Space", "role": "Space",         "href": "#" },
+      { "glyph_svg": "<path d='M5 8l9 7-9 7M20 24h18'/>",                                  "name": "Slow Ship",     "role": "Logistics",   "href": "#" },
+      { "glyph_svg": "<rect x='4' y='5' width='22' height='18'/><rect x='14' y='9' width='22' height='18'/>", "name": "Digital Kin",   "role": "Tech",     "href": "#" }
+    ],
+    "read_more_label": "Read more stories",
+    "read_more_href": "#"
+  },
+
+  "cta": {
+    "label": "Start a conversation",
+    "ix": "· Nº 07",
+    "headline": [
+      { "text": "Let's make something " },
+      { "text": "light", "em": true },
+      { "text": " and " },
+      { "text": "free", "em": true },
+      { "text": " together" },
+      { "text": ".", "dot": true }
+    ],
+    "lead": "Subscribe for early access to drops, studio notes, and fabric experiments.",
+    "primary": { "label": "Subscribe", "href": "#" },
+    "ribbon": "CLOUD &nbsp;·&nbsp; FIN."
+  },
+
+  "wire": {
+    "title": "From the field",
+    "cities": [
+      { "name": "Lisbon",        "coord": "38.72°N" },
+      { "name": "Tokyo",         "coord": "35.68°N" },
+      { "name": "Milan",      "coord": "45.46°N" },
+      { "name": "Paris",       "coord": "48.86°N" },
+      { "name": "New York",      "coord": "40.71°N" },
+      { "name": "Osaka",     "coord": "34.69°N" },
+      { "name": "London",     "coord": "51.51°N" },
+      { "name": "Berlin",       "coord": "52.52°N" },
+      { "name": "Copenhagen",     "coord": "55.68°N" },
+      { "name": "Seoul",     "coord": "37.57°N" }
+    ],
+    "contributors": [
+      { "handle": "studio_k",         "role": "design",     "href": "#" },
+      { "handle": "mill.7",       "role": "fabric",  "href": "#" },
+      { "handle": "soft_space",   "role": "space",   "href": "#" },
+      { "handle": "slow_ship", "role": "logistics", "href": "#" },
+      { "handle": "digital_kin",      "role": "tech",   "href": "#" },
+      { "handle": "you",          "role": "be next",  "href": "#" }
+    ]
+  },
+
+  "footer": {
+    "brand_description": "Cloud is a digital-first clothing brand. Freedom through fabric, form, and silhouette. Built in collaboration with <a class='inline-link' href='#' target='_blank' rel='noreferrer noopener'>Atelier Form</a>, <a class='inline-link' href='#' target='_blank' rel='noreferrer noopener'>Mill Nº 7</a>, and <a class='inline-link' href='#' target='_blank' rel='noreferrer noopener'>Soft Space</a>.",
+    "brand_cta": {
+      "label": "Shop Vol. 01",
+      "href": "#",
+      "meta": "Drops · v1.0.0"
+    },
+    "columns": [
+      { "title": "Studio",  "links": [
+        { "label": "About", "href": "#about" },
+        { "label": "Manifesto",         "href": "#" },
+        { "label": "Method",       "href": "#method" },
+        { "label": "Sustainability",    "href": "#" }
+      ]},
+      { "title": "Library", "links": [
+        { "label": "All Drops",    "href": "#" },
+        { "label": "Labs",   "href": "#labs" },
+        { "label": "Journal", "href": "#" },
+        { "label": "Size Guide",     "href": "#" }
+      ]},
+      { "title": "Connect", "links": [
+        { "label": "Instagram",       "href": "#" },
+        { "label": "Pinterest",       "href": "#" },
+        { "label": "Newsletter", "href": "#" },
+        { "label": "Contact",     "href": "#contact" }
+      ]},
+      { "title": "Support",    "links": [
+        { "label": "Shipping",     "href": "#" },
+        { "label": "Returns",   "href": "#" },
+        { "label": "Care Guide", "href": "#" },
+        { "label": "FAQ",        "href": "#" }
+      ]}
+    ],
+    "mega": [
+      { "text": "Cloud " },
+      { "text": "Studio", "em": true },
+      { "text": "." }
+    ]
+  },
+
+  "imagery": {
+    "strategy": "placeholder",
+    "assets_path": "./assets/",
+    "provider": "fal"
+  }
+}

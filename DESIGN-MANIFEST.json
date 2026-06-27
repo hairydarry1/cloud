@@ -1,0 +1,284 @@
+{
+  "schema": "open-design.design-manifest.v1",
+  "title": "9f87e194-146e-45d4-8004-3a6ef410532e",
+  "entryFile": "index.html",
+  "sourceFiles": {
+    "all": [
+      "assets/about.png",
+      "assets/about.svg",
+      "assets/capabilities.png",
+      "assets/capabilities.svg",
+      "assets/cta.png",
+      "assets/cta.svg",
+      "assets/hero.png",
+      "assets/hero.svg",
+      "assets/lab-1.png",
+      "assets/lab-1.svg",
+      "assets/lab-2.png",
+      "assets/lab-2.svg",
+      "assets/lab-3.png",
+      "assets/lab-3.svg",
+      "assets/lab-4.png",
+      "assets/lab-4.svg",
+      "assets/lab-5.png",
+      "assets/lab-5.svg",
+      "assets/method-1.png",
+      "assets/method-1.svg",
+      "assets/method-2.png",
+      "assets/method-2.svg",
+      "assets/method-3.png",
+      "assets/method-3.svg",
+      "assets/method-4.png",
+      "assets/method-4.svg",
+      "assets/testimonial.png",
+      "assets/testimonial.svg",
+      "assets/work-1.png",
+      "assets/work-1.svg",
+      "assets/work-2.png",
+      "assets/work-2.svg",
+      "cloud-landing.html",
+      "generate-images.ps1",
+      "image-prompts.md",
+      "index.html",
+      "inputs.json",
+      "mqiwfbmq-WhatsApp-Image-2026-06-14-at-12.59.48-AM-_2_.jpeg",
+      "mqiwfbo8-WhatsApp-Image-2026-06-14-at-12.59.48-AM.jpeg",
+      "mqiwfbqn-WhatsApp-Image-2026-06-14-at-12.59.47-AM.jpeg",
+      "mqiwfbrj-WhatsApp-Image-2026-06-14-at-12.59.48-AM-_1_.jpeg",
+      "mqmbcfrg-High-end_techwear_jacket_design_inspired_202606201306.jpeg",
+      "mqmbcg5i-High-end_techwear_jacket_design_inspired_202606201301-_1_.jpeg",
+      "mqmbcgll-High-end_contemporary_clothing_design_inspired_202606201259.jpeg",
+      "mqmbch9p-Gintama_inspired_apparel._A_pair_202606201257.jpeg",
+      "mqmbchw6-High-end_contemporary_clothing_design_inspired_202606201257.jpeg",
+      "mqmbci9f-Remove_the_person._Show_the_202606201257.jpeg",
+      "mqmbcili-Remove_the_person._Show_the_202606201256.jpeg",
+      "mqmbf84j-High-end_techwear_kimono-style_jacket_alone__202606201309.jpeg",
+      "mqmcm0st-High-end_techwear_kimono-style_jacket_alone__202606201311.jpeg",
+      "mqmcm11n-Sleek_techwear-inspired_sundress_for_Black_202606201341.jpeg",
+      "mqmcm19y-Sleek_techwear-inspired_sundress_for_Black_202606201341-_1_.jpeg",
+      "mqmcm1qx-Modern_utilitarian_sundress_inspired_by_202606201341.jpeg",
+      "mqmcm2sl-High-end_techwear_utility_vest_alone__202606201342.jpeg",
+      "mqmcyjy0-Professional_fashion_tech_pack_for_202606201323.jpeg",
+      "mqmcyk9t-Professional_fashion_tech_pack_for_202606201352.jpeg"
+    ],
+    "html": [
+      "cloud-landing.html",
+      "index.html"
+    ],
+    "css": [],
+    "scriptsAndComponents": [],
+    "assets": [
+      "assets/about.png",
+      "assets/about.svg",
+      "assets/capabilities.png",
+      "assets/capabilities.svg",
+      "assets/cta.png",
+      "assets/cta.svg",
+      "assets/hero.png",
+      "assets/hero.svg",
+      "assets/lab-1.png",
+      "assets/lab-1.svg",
+      "assets/lab-2.png",
+      "assets/lab-2.svg",
+      "assets/lab-3.png",
+      "assets/lab-3.svg",
+      "assets/lab-4.png",
+      "assets/lab-4.svg",
+      "assets/lab-5.png",
+      "assets/lab-5.svg",
+      "assets/method-1.png",
+      "assets/method-1.svg",
+      "assets/method-2.png",
+      "assets/method-2.svg",
+      "assets/method-3.png",
+      "assets/method-3.svg",
+      "assets/method-4.png",
+      "assets/method-4.svg",
+      "assets/testimonial.png",
+      "assets/testimonial.svg",
+      "assets/work-1.png",
+      "assets/work-1.svg",
+      "assets/work-2.png",
+      "assets/work-2.svg",
+      "generate-images.ps1",
+      "image-prompts.md",
+      "inputs.json",
+      "mqiwfbmq-WhatsApp-Image-2026-06-14-at-12.59.48-AM-_2_.jpeg",
+      "mqiwfbo8-WhatsApp-Image-2026-06-14-at-12.59.48-AM.jpeg",
+      "mqiwfbqn-WhatsApp-Image-2026-06-14-at-12.59.47-AM.jpeg",
+      "mqiwfbrj-WhatsApp-Image-2026-06-14-at-12.59.48-AM-_1_.jpeg",
+      "mqmbcfrg-High-end_techwear_jacket_design_inspired_202606201306.jpeg",
+      "mqmbcg5i-High-end_techwear_jacket_design_inspired_202606201301-_1_.jpeg",
+      "mqmbcgll-High-end_contemporary_clothing_design_inspired_202606201259.jpeg",
+      "mqmbch9p-Gintama_inspired_apparel._A_pair_202606201257.jpeg",
+      "mqmbchw6-High-end_contemporary_clothing_design_inspired_202606201257.jpeg",
+      "mqmbci9f-Remove_the_person._Show_the_202606201257.jpeg",
+      "mqmbcili-Remove_the_person._Show_the_202606201256.jpeg",
+      "mqmbf84j-High-end_techwear_kimono-style_jacket_alone__202606201309.jpeg",
+      "mqmcm0st-High-end_techwear_kimono-style_jacket_alone__202606201311.jpeg",
+      "mqmcm11n-Sleek_techwear-inspired_sundress_for_Black_202606201341.jpeg",
+      "mqmcm19y-Sleek_techwear-inspired_sundress_for_Black_202606201341-_1_.jpeg",
+      "mqmcm1qx-Modern_utilitarian_sundress_inspired_by_202606201341.jpeg",
+      "mqmcm2sl-High-end_techwear_utility_vest_alone__202606201342.jpeg",
+      "mqmcyjy0-Professional_fashion_tech_pack_for_202606201323.jpeg",
+      "mqmcyk9t-Professional_fashion_tech_pack_for_202606201352.jpeg"
+    ]
+  },
+  "screens": [
+    {
+      "file": "cloud-landing.html",
+      "role": "landing-page",
+      "implementationNote": "Preserve visual hierarchy, responsive behavior, and interactive states from this screen."
+    },
+    {
+      "file": "index.html",
+      "role": "launcher-overview",
+      "implementationNote": "Use this as the navigation/overview entry only; implement each linked screen file as its own route/surface."
+    }
+  ],
+  "screenFilePolicy": {
+    "mode": "screen-file-first",
+    "entryFileRole": "launcher-overview",
+    "rules": [
+      "Each distinct user-facing screen or surface must be delivered and implemented as its own file/route.",
+      "If a landing page is present or requested, keep it in landing.html and do not merge it into the product app screen.",
+      "When multiple HTML screens exist, index.html is a launcher/overview only; it must not be treated as the combined final UI.",
+      "Keep product app screens, landing pages, platform screens, and OS widget surfaces separate in production code."
+    ]
+  },
+  "appModules": [
+    "Identify domain-specific in-app modules from the exported UI; do not reduce them to generic cards.",
+    "For each major module, implement purpose, default/loading/empty/error/success states, and responsive behavior.",
+    "Keep app modules separate from OS home-screen widgets in the production component model."
+  ],
+  "osWidgets": [
+    "If the export includes home-screen, lock-screen, Live Activity, tablet glance, or Android widget surfaces, implement them as platform quick-access surfaces outside the app UI.",
+    "If none are present, do not invent OS widgets unless the product requirements request them."
+  ],
+  "landingPage": {
+    "detection": "Inspect files and screen names for a marketing/landing page surface. If present, keep it separate from product app screens.",
+    "requiredSections": [
+      "hero",
+      "value props",
+      "product proof/screenshots",
+      "feature proof",
+      "CTA"
+    ]
+  },
+  "tokens": {
+    "source": [
+      "index.html"
+    ],
+    "required": [
+      "background",
+      "surface",
+      "foreground",
+      "muted text",
+      "border",
+      "accent",
+      "radius",
+      "shadow",
+      "spacing",
+      "type scale",
+      "motion"
+    ],
+    "note": "Extract/freeze tokens before framework implementation so coding tools do not substitute default theme colors or typography."
+  },
+  "interactions": {
+    "source": [
+      "index.html"
+    ],
+    "requiredStates": [
+      "default",
+      "hover",
+      "focus",
+      "active",
+      "disabled",
+      "loading",
+      "empty",
+      "error",
+      "success"
+    ],
+    "requiredBehaviors": [
+      "forms/validation where present",
+      "tabs/filters where present",
+      "dialogs/sheets/drawers where present",
+      "copy/generate/share actions where present",
+      "player or quick controls where present"
+    ],
+    "note": "If the prototype is static, derive missing behavior from visible controls and document it before coding."
+  },
+  "responsiveViewports": [
+    {
+      "name": "mobile-compact",
+      "width": 360,
+      "height": 800,
+      "category": "mobile",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "mobile-standard",
+      "width": 390,
+      "height": 844,
+      "category": "mobile",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "mobile-large",
+      "width": 430,
+      "height": 932,
+      "category": "mobile",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "foldable-small-tablet",
+      "width": 600,
+      "height": 960,
+      "category": "foldable-tablet",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "tablet-portrait",
+      "width": 820,
+      "height": 1180,
+      "category": "tablet",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "tablet-landscape",
+      "width": 1024,
+      "height": 768,
+      "category": "tablet",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "laptop",
+      "width": 1366,
+      "height": 768,
+      "category": "desktop",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900,
+      "category": "desktop",
+      "mustAvoidHorizontalScroll": true
+    },
+    {
+      "name": "wide",
+      "width": 1920,
+      "height": 1080,
+      "category": "wide",
+      "mustAvoidHorizontalScroll": true
+    }
+  ],
+  "implementationChecklist": [
+    "Open entryFile first and map screens, modules, tokens, and interactions.",
+    "Extract tokens before writing framework components.",
+    "Implement app-specific modules with real states instead of generic card grids.",
+    "Preserve or rebuild JS interactions for meaningful UX actions.",
+    "Validate screenshots at desktop/tablet/mobile viewports with no horizontal overflow.",
+    "Keep landing pages, in-app modules, and OS widgets as separate implementation surfaces."
+  ]
+}

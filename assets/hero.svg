@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024' width='1024' height='1024'>
+    <defs><clipPath id='c0'><ellipse cx='380' cy='380' rx='320' ry='380'/></clipPath></defs>
+    <rect width='1024' height='1024' fill='#efe7d2'/><rect width='1024' height='1024' filter='url(#p)'/>
+    <ellipse cx='380' cy='400' rx='320' ry='380' fill='#e8dcc4'/>
+    <ellipse cx='380' cy='400' rx='280' ry='340' fill='#f0e8d4'/>
+    <path d='M160 240 Q300 120 420 200 Q540 280 480 460 Q440 580 360 620 L300 780' stroke='rgba(21,20,15,0.28)' fill='none' stroke-width='2' stroke-dasharray='6 4'/>
+    <path d='M180 260 Q320 140 440 220 Q560 300 500 480 Q460 600 380 640' stroke='#ed6f5c' fill='none' stroke-width='1.2' opacity='0.5'/>
+    <ellipse cx='680' cy='300' rx='120' ry='40' fill='none' stroke='rgba(21,20,15,0.1)' stroke-width='1'/>
+    <ellipse cx='680' cy='300' rx='90' ry='30' fill='none' stroke='rgba(21,20,15,0.07)' stroke-width='0.5'/>
+    <circle cx='680' cy='300' r='10' fill='#ed6f5c' opacity='0.6'/>
+    <text x='512' y='520' text-anchor='middle' font-family='Playfair Display, serif' font-style='italic' font-size='36' fill='rgba(21,20,15,0.12)'>Cloud</text>
+    <path d='M520 360 Q560 340 600 370 Q640 400 620 430' stroke='rgba(21,20,15,0.08)' fill='none' stroke-width='1'/>
+    
+    <path d='M30 50 L30 30 L50 30' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M974 30 L994 30 L994 50' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M30 974 L30 994 L50 994' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M974 994 L994 994 L994 974' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <rect x='40' y='40' width='944' height='944' fill='none' stroke='rgba(21,20,15,0.08)' stroke-dasharray='4 6'/>
+    <text x='512' y='130' text-anchor='middle' font-family='Playfair Display, serif' font-style='italic' font-size='22' fill='rgba(21,20,15,0.25)'>— vol.01 —</text>
+    
+    <text x='512' y='980' text-anchor='middle' font-family='Inter Tight, sans-serif' font-size='9' letter-spacing='3' fill='rgba(21,20,15,0.3)'>HERO · COVER PLATE · ATELIER ZERO</text>
+    <rect x='300' y='160' width='15' height='15' fill='#ed6f5c' opacity='0.3' rx='2'/>
+    <rect x='700' y='500' width='10' height='10' fill='#ed6f5c' opacity='0.2' rx='2'/>
+</svg>

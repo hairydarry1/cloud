@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024' width='1024' height='1024'>
+    <rect width='1024' height='1024' fill='#f4eedc'/><rect width='1024' height='1024' filter='url(#p)'/>
+    <ellipse cx='512' cy='400' rx='300' ry='350' fill='#f9f4e6'/>
+    <ellipse cx='512' cy='400' rx='250' ry='300' fill='none' stroke='rgba(21,20,15,0.04)' stroke-width='0.8'/>
+    <path d='M300 200 Q512 80 724 200 Q800 350 700 550 Q600 750 512 780' stroke='rgba(21,20,15,0.06)' fill='none' stroke-width='1'/>
+    <path d='M320 220 Q512 110 704 220 Q780 360 680 560 Q590 730 512 760' stroke='rgba(21,20,15,0.04)' fill='none' stroke-width='0.5'/>
+    <ellipse cx='512' cy='400' rx='180' ry='240' fill='none' stroke='#ed6f5c' stroke-width='0.8' opacity='0.3'/>
+    <circle cx='400' cy='300' r='3' fill='#ed6f5c' opacity='0.5'/>
+    <circle cx='600' cy='480' r='2' fill='#ed6f5c' opacity='0.4'/>
+    <path d='M380 350 Q420 320 460 340' stroke='rgba(21,20,15,0.06)' fill='none' stroke-width='0.8'/>
+    <path d='M540 440 Q580 420 620 450' stroke='rgba(21,20,15,0.06)' fill='none' stroke-width='0.8'/>
+    
+    <path d='M30 50 L30 30 L50 30' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M974 30 L994 30 L994 50' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M30 974 L30 994 L50 994' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M974 994 L994 994 L994 974' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <rect x='40' y='40' width='944' height='944' fill='none' stroke='rgba(21,20,15,0.08)' stroke-dasharray='4 6'/>
+    
+    <text x='512' y='980' text-anchor='middle' font-family='Inter Tight, sans-serif' font-size='9' letter-spacing='3' fill='rgba(21,20,15,0.3)'>LAB-1 · AIRWEIGHT LINEN · ATELIER ZERO</text>
+    <text x='512' y='700' text-anchor='middle' font-family='Playfair Display, serif' font-style='italic' font-size='18' fill='rgba(21,20,15,0.15)'>translucent · whisper-thin</text>
+</svg>

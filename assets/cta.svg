@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1024 1024' width='1024' height='1024'>
+    <rect width='1024' height='1024' fill='#f2ecda'/><rect width='1024' height='1024' filter='url(#p)'/>
+    <rect x='260' y='80' width='504' height='500' fill='#f9f4e6' rx='2'/>
+    <rect x='280' y='100' width='464' height='460' fill='none' stroke='rgba(21,20,15,0.06)' stroke-width='1'/>
+    <ellipse cx='512' cy='300' rx='180' ry='120' fill='#f0e8d4' opacity='0.5'/>
+    <ellipse cx='512' cy='300' rx='130' ry='80' fill='#f5eedc' opacity='0.4'/>
+    <ellipse cx='512' cy='300' rx='80' ry='50' fill='#f9f4e6' opacity='0.3'/>
+    <path d='M350 350 Q512 200 674 350' stroke='rgba(21,20,15,0.06)' fill='none' stroke-width='1'/>
+    <path d='M370 370 Q512 240 654 370' stroke='rgba(21,20,15,0.04)' fill='none' stroke-width='0.5'/>
+    <line x1='300' y1='500' x2='724' y2='500' stroke='#ed6f5c' stroke-width='1' opacity='0.5'/>
+    <circle cx='300' cy='500' r='3' fill='#ed6f5c' opacity='0.6'/>
+    <circle cx='724' cy='500' r='3' fill='#ed6f5c' opacity='0.6'/>
+    <text x='512' y='440' text-anchor='middle' font-family='Playfair Display, serif' font-style='italic' font-size='32' fill='rgba(21,20,15,0.08)'>Cloud Studio</text>
+    <text x='512' y='480' text-anchor='middle' font-family='Playfair Display, serif' font-style='italic' font-size='14' fill='rgba(21,20,15,0.12)'>Be free Be you</text>
+    
+    <path d='M30 50 L30 30 L50 30' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M974 30 L994 30 L994 50' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M30 974 L30 994 L50 994' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <path d='M974 994 L994 994 L994 974' stroke='rgba(21,20,15,0.2)' fill='none' stroke-width='1.5'/>
+    <rect x='40' y='40' width='944' height='944' fill='none' stroke='rgba(21,20,15,0.08)' stroke-dasharray='4 6'/>
+    
+    <text x='512' y='980' text-anchor='middle' font-family='Inter Tight, sans-serif' font-size='9' letter-spacing='3' fill='rgba(21,20,15,0.3)'>CTA · FINAL CONVERSATION · ATELIER ZERO</text>
+    <rect x='240' y='620' width='544' height='2' fill='rgba(21,20,15,0.06)'/>
+</svg>
